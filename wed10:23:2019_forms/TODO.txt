@@ -1,0 +1,14 @@
+Tuesday Homework: Forms
+
+ Wednesday Practice: Forms -> 
+ 
+ Wednesday Debugging in JavaScript ->
+
+ Wednesday Calculator: User Interface -> D
+ Practice: Calculator User Interface -> D
+
+ Wednesday Form Input Types -> D
+ Practice: Form Input Types -> D
+
+ Wednesday Homework: Branching -> D
+ Practice: Branching

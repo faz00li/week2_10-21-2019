@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="css/styles.css" rel="stylesheet" type="text/css">
+    <script src="js/jquery-3.4.1.js"></script>
+    <script src="js/scriptsRadioButtons.js"></script>
+    <title>Radio Button</title>
+  </head>
+
+  <body>
+
+    <header class="jumbotron">Radio Buttons
+    </header>
+
+    <nav>
+      <a href="index.html">home</a>
+      <a href="dropDownMenu.html">dropDownMenu</a>
+      <a href="radioButtons.html">radioButtons</a>
+      <a href="calendar.html">calendar</a>
+      <a href="colorWheel">colorWheel</a>
+    </nav>
+
+    <form id="iceFlavor">
+
+      <div class="radio">
+        <label>
+          <input type="radio" name="flavor" value="chocolate" checked>
+          Chocolate
+        </label>
+      </div>
+
+      <div class="radio">
+        <label>
+          <input type="radio" name="flavor" value="vanilla">
+          Vanilla
+        </label>
+      </div>
+
+      <div class="radio">
+        <label>
+          <input type="radio" name="flavor" value="cookiesandcream">
+          Cookies & Cream
+        </label>
+      </div>
+
+      <button type="submit" class="btn">Display Choice</button>
+
+      <div class="panel-default">
+        <label for="displayChoice">Your Choice is: <span id="displayChoice"></span></label>
+      </div>
+
+    </form>
+
+
+  </body>
+</html>
