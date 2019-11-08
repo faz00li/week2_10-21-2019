@@ -1,0 +1,14 @@
+ Thursday
+ 
+ Practice: Branching
+ 
+ Thursday More Branching
+ Thursday Practice: More Branching
+
+ Thursday Git: Rewriting History with Rebase
+
+ Thursday Practice: Triangle Tracker
+
+ Thursday Calculator with Branching
+
+ Thursday Practice: Calculator and More
